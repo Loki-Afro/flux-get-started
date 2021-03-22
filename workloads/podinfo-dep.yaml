@@ -59,7 +59,7 @@ spec:
         - name: PODINFO_UI_COLOR
           value: "#34573c"
         - name: PODINFO_UI_MESSAGE
-          value: "well fuck"
+          value: "well fuck2"
         livenessProbe:
           httpGet:
             path: /healthz
